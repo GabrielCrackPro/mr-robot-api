@@ -1,0 +1,28 @@
+{
+  "name": "first-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielCrackPro/first-api.git"
+  },
+  "keywords": [],
+  "author": "GabrielCrackPro <gabrielcrackpro2001@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabrielCrackPro/first-api/issues"
+  },
+  "homepage": "https://github.com/GabrielCrackPro/first-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "helmet": "^5.0.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}

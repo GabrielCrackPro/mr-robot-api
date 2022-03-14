@@ -3,6 +3,10 @@ const cors = require("cors");
 const helmet = require("helmet");
 const morgan = require("morgan");
 
+const data = {
+    names: require("./data/names.json"),
+}
+
 const app = express();
 
 app.use(cors());
@@ -11,10 +15,8 @@ app.use(morgan("dev"));
 
 const port = process.env.PORT || 3000;
 
-app.get('/', (req, res) => {
-    res.json({
-        message: "Hello World"
-    });
+app.get('/names', (req, res) => {
+    res.send(data);
 })
 
 app.listen(port, () => {

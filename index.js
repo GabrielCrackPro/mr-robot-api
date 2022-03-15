@@ -3,11 +3,10 @@ const bodyParser = require("body-parser");
 const cors = require("cors");
 const helmet = require("helmet");
 const morgan = require("morgan");
-const { json } = require("express/lib/response");
 
 const data = {
-  details: require("./data/details.json"),
-  characters: require("./data/characters.json"),
+  details: require("./api/data/details.json"),
+  characters: require("./api/data/characters.json"),
 };
 
 const corsOptions = {

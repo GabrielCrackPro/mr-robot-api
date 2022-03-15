@@ -1,0 +1,33 @@
+[
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mr._Robot_Logo.svg",
+    "name": "Mr. Robot",
+    "description": "A young programmer is recruited by a mysterious firm to participate in its latest experiment, the one that will ultimately save the world.",
+    "created_by": "Sam Esmail",
+    "genres": ["Drama", "Sci-Fi"],
+    "starring": [
+      {
+        "name": "Rami Malek",
+        "role": "Eliot Alderson",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rami_Malek_in_2015_%282%29_%28cropped%29.jpg",
+        "social": {
+          "twitter": "https://twitter.com/ItsRamiMalek",
+          "facebook": "RamiMalek",
+          "instagram": "https://www.instagram.com/ramiimalek",
+          "linkedin": "https://ae.linkedin.com/in/rami-malek-19527318b/es"
+        }
+      },
+      {
+        "name": "Carly Chaikin",
+        "role": "Darlene Alderson",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Carly_Chaikin_2012.jpg_%28cropped%2Benhanced%29.jpg",
+        "social": {
+          "twitter": "https://twitter.com/carlychaikin",
+          "facebook": "https://www.facebook.com/profile.php?id=100044685215916",
+          "instagram": "https://www.instagram.com/carlychaikin",
+          "linkedin": null
+        }
+      }
+    ]
+  }
+]

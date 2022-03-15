@@ -24,8 +24,97 @@
         "social": {
           "twitter": "https://twitter.com/carlychaikin",
           "facebook": "https://www.facebook.com/profile.php?id=100044685215916",
-          "instagram": "https://www.instagram.com/carlychaikin",
-          "linkedin": null
+          "instagram": "https://www.instagram.com/carlychaikin"
+        }
+      },
+      {
+        "name": "Portia Doubleday",
+        "role": "Angela Moss",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/PortiaDoubledayTIFFSept09.jpg_%28cropped%29.jpg",
+        "social": {
+          "twitter": "https://twitter.com/PortiaDd",
+          "facebook": null,
+          "instagram": "https://www.instagram.com/portiadd"
+        }
+      },
+      {
+        "name": "Martin Wallström",
+        "role": "Tyrell Wellick",
+        "image": "http://br.web.img3.acsta.net/pictures/19/06/28/02/22/4893418.jpg",
+        "social": {
+          "twitter": "https://twitter.com/martinwallstrom",
+          "facebook": "https://www.facebook.com/profile.php?id=100071266789363",
+          "instagram": "https://www.instagram.com/itsmartinwallstrom"
+        }
+      },
+      {
+        "name": "Christian Slater",
+        "role": "Mr Robot",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/SXSW_2016_-_Christian_Slater_%2825138462254%29_%28cropped%29.jpg",
+        "social": {
+          "twitter": "https://twitter.com/ChristianSlater",
+          "facebook": "https://www.facebook.com/officialchristianslater",
+          "instagram": "https://www.instagram.com/realchristianslater"
+        }
+      },
+      {
+        "name": "Michael Cristofer",
+        "role": "Phillip Price",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Michael_Cristofer_cropped.jpg",
+        "social": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null
+        }
+      },
+      {
+        "name": "Stephanie Corneliussen",
+        "role": "Joana Wellick",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Stephanie_Corneliussen_by_Gage_Skidmore.jpg/1280px-Stephanie_Corneliussen_by_Gage_Skidmore.jpg",
+        "social": {
+          "twitter": "https://twitter.com/Stecorneliussen",
+          "facebook": "https://www.facebook.com/CorneliussenS",
+          "instagram": "https://www.instagram.com/stephaniecorneliussen"
+        }
+      },
+      {
+        "name": "Grace Gummer",
+        "role": "Dominique DiPierro",
+        "image": "https://celebmafia.com/wp-content/uploads/2020/02/grace-gummer-vanity-fair-oscar-party-2020-0.jpg",
+        "social": {
+          "twitter": "https://twitter.com/gracegummer",
+          "facebook": null,
+          "instagram": "https://www.instagram.com/gracegummer_"
+        }
+      },
+      {
+        "name": "BD Wong",
+        "role": "White Rose",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/BDWongNYCJune08.jpg",
+        "social": {
+          "twitter": "https://twitter.com/wongbd",
+          "facebook": null,
+          "instagram": "https://www.instagram.com/wongbd"
+        }
+      },
+      {
+        "name": "Ashlie Atkinson",
+        "role": "Janice",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Jm3UCFfqFW7PJl54kBajnAHaJ4%26pid%3DApi&f=1",
+        "social": {
+          "twitter": "https://twitter.com/ashlieatkinson",
+          "facebook": "https://www.facebook.com/ashlie.atkinson.16",
+          "instagram": "https://www.instagram.com/ashlie_atkinson"
+        }
+      },
+      {
+        "name": "Elliot Villar",
+        "role": "Fernando Vera",
+        "image": "https://www.notrecinema.com/images/usercontent/star/elliot-villar-photo_133738_46820.jpg",
+        "social": {
+          "twitter": "https://twitter.com/elliot_villar",
+          "facebook": null,
+          "instagram": "https://www.instagram.com/elliotvillar"
         }
       }
     ]

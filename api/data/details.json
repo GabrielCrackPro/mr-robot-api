@@ -117,6 +117,21 @@
           "instagram": "https://www.instagram.com/elliotvillar"
         }
       }
-    ]
+    ],
+    "music": {
+      "componser": "Mac Quayle",
+      "OST": "https://open.spotify.com/playlist/2Fz3DNDicvnsWDp7zZl9bX?si=0ae56de2ef8b486d"
+    },
+    "country": "United States",
+    "originalLanguage": "English",
+    "episodes": {
+      "total": 42,
+      "list": "http://localhost:3000/episodes",
+      "listSource": "https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes"
+    },
+    "release": {
+      "date": "June 24 2015",
+      "network": "USA Network"
+    }
   }
 ]

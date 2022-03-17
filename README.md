@@ -8,10 +8,10 @@ An API with data from Mr Robot TV series.
 
 - [x] Define the API
 - [ ] Define the API endpoints
- - [x] Details
- - [ ] Characters
- - [ ] Episodes
- - [ ] Seasons
+  - [x] Details
+  - [ ] Characters
+  - [ ] Episodes
+  - [ ] Seasons
 - [ ] Add pagination
 - [ ] Add documentation
 - [ ] Create frontend for documentation

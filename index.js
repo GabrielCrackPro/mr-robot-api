@@ -12,7 +12,11 @@ const data = {
 const corsOptions = {
   origin: "*",
 };
-
+const responseHeaders = {
+  "Access-Control-Allow-Origin": "*",
+  "Content-Type": "application/json",
+  "Cross-Origin-Resource-Policy": "cross-origin",
+};
 const app = express();
 
 app.use(cors(corsOptions));
@@ -22,20 +26,18 @@ app.use(bodyParser.json());
 
 const port = process.env.PORT || 3000;
 
+// GET Routes
+
 app.get("/", (req, res) => {
-  res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader("Content-Type", "application/json");
-  res.setHeader("Cross-Origin-Resource-Policy", "cross-origin");
+  res.set(responseHeaders);
   res.send(data.details);
 });
 
 app.get("/characters", (req, res) => {
-  res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader("Content-Type", "application/json");
-  res.setHeader("Cross-Origin-Resource-Policy", "cross-origin");
+  res.set(responseHeaders);
   res.send(data.characters);
 });
 
 app.listen(port, () => {
-  console.log(`Listening on port ${port}`);
+  console.log(`Listening on port ${port}...`);
 });

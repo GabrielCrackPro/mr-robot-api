@@ -1,8 +1,9 @@
 const express = require("express");
-const bodyParser = require("body-parser");
 const cors = require("cors");
 const helmet = require("helmet");
 const morgan = require("morgan");
+const bodyParser = require("body-parser");
+const Joi = require("joi");
 
 const data = {
   details: require("./api/data/details.json"),
@@ -26,6 +27,19 @@ app.use(bodyParser.json());
 
 const port = process.env.PORT || 3000;
 
+const schemas = {
+  characters: Joi.object().keys({
+    name: Joi.string().required(),
+    role: Joi.string().required(),
+    image: Joi.string().uri().required(),
+    social: Joi.object().keys({
+      twitter: Joi.string().uri(),
+      facebook: Joi.string().uri(),
+      instagram: Joi.string().uri(),
+    }),
+  }),
+};
+
 // GET Routes
 
 app.get("/", (req, res) => {
@@ -36,6 +50,23 @@ app.get("/", (req, res) => {
 app.get("/characters", (req, res) => {
   res.set(responseHeaders);
   res.send(data.characters);
+});
+
+// POST Routes
+
+app.post("/characters/new", (req, res) => {
+  const newCharacter = req.body;
+  res.set(responseHeaders);
+  // TODO: validate newCharacter with Joi
+  schemas.characters.validate(newCharacter, (err, value) => {
+    if (err) {
+      res.status(400).send(err);
+    } else {
+      //data.characters.push(newCharacter);
+      res.send(data.characters);
+      console.log(newCharacter);
+    }
+  });
 });
 
 app.listen(port, () => {

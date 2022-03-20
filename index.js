@@ -4,7 +4,6 @@ const helmet = require("helmet");
 const morgan = require("morgan");
 const bodyParser = require("body-parser");
 const Joi = require("joi");
-
 const data = {
   details: require("./api/data/details.json"),
   characters: require("./api/data/characters.json"),
@@ -57,12 +56,12 @@ app.get("/characters", (req, res) => {
 app.post("/characters/new", (req, res) => {
   const newCharacter = req.body;
   res.set(responseHeaders);
-  // TODO: validate newCharacter with Joi
   schemas.characters.validate(newCharacter, (err, value) => {
     if (err) {
       res.status(400).send(err);
     } else {
-      //data.characters.push(newCharacter);
+      data.characters.push(newCharacter);
+      fs.writeFile("./api/data/characters.json", JSON.stringify(newCharacter));
       res.send(data.characters);
       console.log(newCharacter);
     }

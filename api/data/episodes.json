@@ -27,6 +27,413 @@
         "last_aired": "2019-12-22"
       }
     },
+    "all": [
+      {
+        "no_all": 1,
+        "title": "eps1.0_hellofriend.mov",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2015-06-24",
+        "us_milions_viewers": 1.75,
+        "plot": "Socially inept Elliot Alderson works at cyber security company Allsafe. At night, he hacks social media, personal information, and bank records, including those of his co-workers, therapist, and a drug dealer. Elliot stops a DDoS attack against Allsafe's biggest client, E Corp. He identifies a file labeled fsociety00.dat and a text file asking him not to destroy malware he finds hidden on E Corp's server. Mr. Robot, the mysterious leader of the hacker group fsociety, contacts Elliot on the subway. Fsociety invites Elliot to join them in starting a digital revolution; they plan to delete all debt records held by E Corp. He is intrigued and eventually agrees. As his first collaborative act with fsociety, Elliot provides the FBI with an encrypted file falsely implicating Terry Colby, E Corp's own chief technology officer (CTO) as the orchestrator of the attack."
+      },
+      {
+        "no_all": 2,
+        "title": "eps1.1_ones-and-zer0es.mpeg",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2015-07-01",
+        "us_milions_viewers": 1.73,
+        "plot": "Elliot declines a job offer from Tyrell Wellick, interim CTO of E Corp. Elliot, increasingly paranoid, uses more morphine than normal. Darlene visits him at home to bring him to fsociety, surprising him. Mr. Robot and fsociety want Elliot to destroy an E Corp offline backup facility called Steel Mountain by hacking an adjacent gas plant and causing an explosion. Elliot backs out because he does not want to risk lives. Shayla is Elliot's drug dealer and friend. When Elliot notices Fernando Vera, Shayla's supplier, abusing her, Elliot collects evidence against Fernando and turns him in to the police, despite Shayla's explicit instructions not to. Meanwhile, Cisco, an unknown associate of the Chinese hacker group The Dark Army, hacks Ollie's home computer with a CD. Elliot and Mr. Robot discuss Elliot's falling out with his father: Elliot told his mother of his father's terminal illness, despite promising his father he would keep the illness secret. Mr. Robot pushes Elliot off a railing onto the rock-strewn beach below as punishment for not keeping his father's secret."
+      },
+      {
+        "no_all": 3,
+        "title": "eps1.2_d3bug.mkv",
+        "directed_by": "Jim McKay",
+        "written_by": "Sam Esmail",
+        "air_date": "2015-07-08",
+        "us_milions_viewers": 1.68,
+        "plot": "Tyrell is enraged that Scott Knowles was chosen for CTO. To let off steam, Tyrell pays a homeless man to allow him to beat him. Cisco demands that Ollie infect Allsafe with the same CD. Elliot believes he is done with fsociety. Tyrell seduces his boss's male secretary and installs software on his phone. Attempting to be more normal, Elliot asks Shayla to accompany him to a party, she accepts and they become romantically involved. During the party, fsociety leaks E Corp's emails that incriminate Colby for covering up a toxic waste leak that caused leukemia in Elliot's father and Angela's mother. Tyrell ties up his pregnant wife and ball-gags her upon her request. Ollie confesses both his infidelity and Cisco's demands to Angela. Fearing identity theft, she wants him to infect Allsafe with the CD. Elliot returns to fsociety. Allsafe CEO Gideon Goddard becomes suspicious of Elliot's story regarding the E Corp attack, and begins to investigate."
+      },
+      {
+        "no_all": 4,
+        "title": "eps1.3_da3m0ns.mp4",
+        "directed_by": "Nisha Gantra",
+        "written_by": "Adam Penn",
+        "air_date": "2015-07-15",
+        "us_milions_viewers": 1.27,
+        "plot": " Elliot has a new plan to destroy E Corp's tape back-ups of their data at Steel Mountain involving hacking into their climate control system by connecting a Raspberry Pi to slowly raise the temperature (bypassing the climate control system) to a point where it will destroy the magnetic tape back-ups, but this requires physical access to the heavily fortified data center. Elliot, Romero, Mobley, and Mr. Robot go to Steel Mountain. With his morphine supply cut off, Elliot starts to have serious withdrawal symptoms including multiple hallucinations. Darlene and Trenton stay behind to contact Cisco (Darlene's ex-boyfriend) and arrange a simultaneous hacker attack by the Dark Army on E Corp's backup sites in China. Meanwhile, Angela and Shayla do ecstasy which results in the two kissing. The next morning, Angela sabotages Allsafe using Ollie's work ID and computer."
+      },
+      {
+        "no_all": 5,
+        "title": "eps1.4_3xpl0its.wmv",
+        "directed_by": "Jim McKay",
+        "written_by": "David Iserson",
+        "air_date": "2015-07-22",
+        "us_milions_viewers": 1.38,
+        "plot": " With the help of fsociety, Elliot infiltrates Steel Mountain through the use of what he calls 'human exploits'. He coincidentally meets Tyrell and uses his ego to gain access to the restricted area where he needs to connect his Raspberry Pi loaded with the program to override the climate control system and destroy E Corp's tape back-ups. Tyrell reveals he knows that Elliot framed the CTO, but will not turn him in. The Dark Army refuses to attack the back-up facility in China, which puts fsociety's plan in jeopardy. Meanwhile, Tyrell and Joanna have dinner with the CTO candidate Scott and his wife Sharon in an attempt to find their weaknesses. Tyrell sexually approaches Sharon in the bathroom. Angela leaves Ollie after telling him she infected Allsafe with the hacker's CD, and moves in with her father. She discovers that he is deeply in debt from her mother's old medical bills. Elliot finds Shayla's phone on the floor. Fernando Vera calls him on it from prison, with the suggestion that he has organized Shayla's abduction. He blames Elliot for turning him in to the police."
+      },
+      {
+        "no_all": 6,
+        "title": "eps1.5_br4ve-trave1er.asf",
+        "directed_by": "Deborah Chow",
+        "written_by": "Kyle Backstreet",
+        "air_date": "2015-07-29",
+        "us_milions_viewers": 1.25,
+        "plot": " Shayla is kidnapped by Vera's brother in order to pressure Elliot to hack Vera out of prison before he is killed on the inside. Elliot visits Vera to check on the prison's cyber system, and later realizes Vera's brother arranged the inside hit. Acting CTO Scott reveals to Tyrell that his wife told him about the bathroom incident, humiliating Tyrell. After Tyrell smashes his kitchen in rage, Joanna explains that Sharon's desire to be wanted is their vulnerability. Angela meets with lawyers in an attempt to reopen her toxic waste lawsuit against E Corp – they tell her it is impossible to win without testimony from someone on the inside. Elliot breaks Vera out of jail, and Vera immediately kills his brother. Upon Elliot's query about Shayla, Vera tosses him the keys to the car and says, 'She was with you the whole time.' Elliot opens the trunk and finds Shayla inside with her throat slit."
+      },
+      {
+        "no_all": 7,
+        "title": "eps1.6_v1ew-s0urce.flv",
+        "directed_by": "Sam Esmail",
+        "written_by": "Kate Ericson",
+        "air_date": "2015-08-05",
+        "us_milions_viewers": 1.15,
+        "plot": " Flashback: Shayla moves in next door and gives Elliot a pet fish. She wants to be his friend despite his awkwardness around people. She offers to contact a suboxone supplier for Elliot. In the present, it has been one month since Shayla's murder. Angela makes a deal: she will lie and say she broke chain of custody with the .dat file that incriminated Terry Colby, if in exchange, Colby will testify that E Corp covered up the toxic waste leak in 1993. Gideon warns Angela that her plan will put Allsafe out of business. Meanwhile, Darlene and Mr. Robot attempt to bring fsociety back together. She sets up an in-person meeting with mysterious Whiterose, leader of the Dark Army. Tyrell, at a party celebrating Knowles's promotion, entices Sharon up to an isolated rooftop and strangles her while seducing her. Elliot confesses to his therapist that he hacks everybody in an attempt to find a way out of loneliness."
+      },
+      {
+        "no_all": 8,
+        "title": "eps1.7_wh1ter0se.m4v",
+        "directed_by": "Christoph Schrewe",
+        "written_by": "Randolph Leon",
+        "air_date": "2015-08-12",
+        "us_milions_viewers": 1.24,
+        "plot": "Darlene steals a gun, and has a conversation with Angela that implies they are longtime friends. Elliot and fsociety re-plan their attack but still need the Dark Army. Elliot meets Whiterose, a transgender woman obsessed with time, who says the Dark Army backed out because Gideon, suspicious of Elliot's story, turned E Corp's hacked server into a honeypot. With help from Darlene, Elliot shuts this down. Tyrell finds fsociety's .dat file after Gideon tells him of the honeypot and meets with Mr. Robot, and it appears that the two are working together. He reminds Mr. Robot that he knows his 'dirty little secret' when Mr. Robot refuses to cooperate, which Mr. Robot shrugs off. When police question the Wellicks about Sharon's murder, Joanna secretly breaks her own water with a fork to distract them. Elliot tells Darlene of their plan's success, and an ecstatic Darlene tells him she loves him. He kisses Darlene, who is revolted. She asks if he 'had forgotten again'. Elliot realizes that Darlene is his sister, but he has no recollection of her. He finds a CD that contains old family photos - revealing that Mr. Robot is his father."
+      },
+      {
+        "no_all": 9,
+        "title": "eps1.8_m1rr0r1ng.qt",
+        "directed_by": "Tricia Block",
+        "written_by": "Sam Esmail",
+        "air_date": "2015-08-19",
+        "us_milions_viewers": 1.32,
+        "plot": "A flashback shows a young Elliot and his father in his computer repair shop 'Mr. Robot'. After the birth of their child, Joanna tells Tyrell that he needs to keep in control if he 'wants to be part of this family'. Tyrell is fired from E Corp - his final act is to prevent Gideon from reverting the honeypot. Mr. Robot takes a trip with Elliot to his childhood home. Angry, Elliot pushes Mr. Robot out of a window and then takes him to a graveyard. Mr. Robot tells Elliot not to let Angela and Darlene 'get rid of him', and that he will always love him. When they arrive, Elliot, alone at the grave of his father, realizes he had taken on his dead father's persona the entire time, saying 'I am Mr. Robot'. Terry Colby offers Angela a job at E Corp. Elliot now doubts the continuation of his Mr. Robot/fsociety plan. Tyrell threatens Elliot about fsociety's plan – Elliot takes Tyrell to the arcade and understands that he will carry on with the hack. They agree to work together, but Elliot glances over to the popcorn machine where Darlene's gun is hidden."
+      },
+      {
+        "no_all": 10,
+        "title": "eps1.9_zer0-day.avi",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2015-09-02",
+        "us_milions_viewers": 1.21,
+        "plot": "Elliot's psychiatrist meets her former boyfriend, whom Elliot hacked and forced to break up with her. He tries to persuade her to help the police arrest Elliot, but she refuses. Elliot wakes up alone in Tyrell's SUV three days after the conclusion of the previous episode, with no memory of those two days. The fsociety hack succeeded, throwing the world into chaos and gathering cheering crowds throughout the city. fsociety encrypts their data and covers their tracks. E Corp is readying an emergency TV interview. The E Corp EVP of Technology commits suicide on TV after stating that the situation is hopeless. Elliot talks to Mr. Robot again and asks about Tyrell's location. He visits Tyrell's address but finds only Joanna, introducing himself as 'Ollie'. The episode ends with Elliot opening his apartment door; the visitor is not seen. In a post-credits scene, Whiterose, dressed as a man, and Phillip Price, the CEO of E Corp, are shown conversing at a formal event where Price indicates he 'knows who's responsible'."
+      },
+      {
+        "no_all": 11,
+        "title": "eps2.0_unm4sk-pt1.tc",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2016-07-13",
+        "us_milions_viewers": 1.04,
+        "plot": "A brief flashback shows that Tyrell recorded an fsociety video the night he visited Elliot. One month later, Elliot has gone off the grid, living with his mother and maintaining a repetitive routine in an attempt to weaken the influence of Mr. Robot, who continually appears to him and torments him while still refusing to tell him what happened to Tyrell. fsociety continues under Darlene's leadership, hacking the smart home of E Corp general counsel Susan Jacobs and using it as home base after forcing Jacobs to move out. Gideon visits Elliot, tells him that Allsafe is no more and the FBI thinks he is behind the hack or at least complicit in some way. With Mobley's assistance, Darlene executes a hack on the Bank of E Corp, holding their records for ransom."
+      },
+      {
+        "no_all": 12,
+        "title": "eps2.0_unm4sk-pt2.tc",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2016-07-13",
+        "us_milions_viewers": 1.04,
+        "plot": " As part of the ransom demand, fsociety forces Scott Knowles to wear an fsociety mask and publicly burn the $5.9 million from the previous episode's hack. Angela continues up the ladder at E Corp, seemingly content in her new corporate position, and appears to abandon the lawsuit. Joanna receives a gift on her doorstep, a music box with a phone hidden underneath, but misses the call. Elliot discovers he has been acting under Mr. Robot's influence while he thought he was sleeping. A man named Brock murders Gideon, who had earlier threatened to report Elliot's suspicious behavior at Allsafe to the FBI and agent Dominique DiPierro. Elliot wakes up from a dissociative state on the phone, greeted on the other end by Tyrell."
+      },
+      {
+        "no_all": 13,
+        "title": "eps2.1_k3rnel-pan1c.ksd",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2016-07-20",
+        "us_milions_viewers": 0.79,
+        "plot": " A flashback reveals Romero wanted to rent the arcade to Mobley, but Mobley recruited him into fsociety instead. After a confusing conversation with Tyrell on the phone, Elliot tries to completely get rid of Mr. Robot. The news reports Gideon's death, shocking Elliot. Later, Mobley finds Romero dead at home. Mobley and Trenton fear the Dark Army is hunting them and grow suspicious of Darlene and Elliot. Dominique DiPierro takes snapshots of a list found on the computer table at the crime scene denoting FBI agents and their information. Ray is on the hunt for a cyber engineer for his own sinister purposes and manages to convince Elliot to open up about Mr. Robot. Elliot once again has issues with drug abuse and takes an obscene amount of Adderall, leading to a mental breakdown. Phillip Price invites Angela to dinner and tries to make her take matters less personally. Dominique decides to pursue the Romero investigation after finding her name on the list; while visiting Romero's mother, she finds a poster for the 'End of the World Party', which leads her to fsociety's arcade."
+      },
+      {
+        "no_all": 14,
+        "title": "eps2.2_init_1.asec",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2016-07-27",
+        "us_milions_viewers": 0.63,
+        "plot": " On Halloween of the previous year, Mr. Robot emerged for the first time and suggested the hack to Darlene while Elliot wore the fsociety mask. In the present, Elliot rejects her plea for help. Mr. Robot states that if Elliot can beat him in chess, he will leave forever. Though Krista advises against it, Leon tells him to fight for what he wants; however, all three matches end in stalemates. Dominique finds a bullet casing in the arcade. Whiterose pressures Price to stay on schedule and monitors the FBI. Angela assumes Price wants her to help settle the class action lawsuit over the toxic leak after she turns in the other executives, but he rebuffs her theory. Joanna is running low on funds from paying the parking attendant who found Tyrell's SUV during the hack to stay quiet. Scott rejects her offer to testify against Tyrell in exchange for Tyrell's severance pay. Cisco tells Darlene that the Dark Army wouldn't have killed Romero, whose murder might have something to do with an illegal FBI surveillance program called Project Berenstain. Elliot agrees to help Ray, but secretly uses the computer to contact Darlene and hack the FBI."
+      },
+      {
+        "no_all": 15,
+        "title": "eps2.3_logic-b0mb.hc",
+        "directed_by": "Sam Esmail",
+        "written_by": "Kyle Bradstreet",
+        "air_date": "2016-08-03",
+        "plot": " Elliot writes the FBI hack malware from Ray's computer. Darlene tells Angela that they can wipe the FBI's records connecting her to the Allsafe CD if she helps, but she declines. The parking attendant who found Tyrell's SUV fears that the FBI is onto him, so Joanna orders him killed. Elliot tells Ray that he must communicate with his previous IT specialist, 'RT'; Ray reluctantly agrees and brings RT over. Dominique and her team travel to China to investigate the Dark Army's involvement in Five/Nine. There, they meet Minister Zhang, the Chinese Minister of State Security, who is actually Whiterose. After Dominique and Zhang have a private conversation in the evening, gunmen attack the office the following morning, killing most of Dominique's team. Joanna gets a phone call from someone breathing heavily, possibly Tyrell. After her ex-boyfriend Ollie sells her out to the FBI, Angela decides to aid with the hack. Elliot asks RT what happened to him and RT reveals that Ray runs a black market website trafficking drugs, weapons, and sex slaves. That night, thugs break into Elliot's house, drag him into the street, and beat him while Ray reminds him that he was warned not to look."
+      },
+      {
+        "no_all": 16,
+        "title": "eps2.4_m4ster-s1ave.aes",
+        "directed_by": "Sam Esmail",
+        "written_by": "Adam Penn",
+        "air_date": "2016-08-10",
+        "us_milions_viewers": 0.57,
+        "plot": "Elliot experiences a twisted 1990s sitcom version of a family road trip with Tyrell locked in the trunk, featuring ALF. Mr. Robot encourages him to keep his eyes forward until he is ready to wake up in the hospital. Ray lets him know that he is Elliot's master. Upon being locked away by Lone Star, Elliot hugs Mr. Robot for protecting his mind during the beating. A flashback reveals that, the day Elliot's father told him he was fired for being sick, he also let Elliot name his new computer store. Cisco receives equipment from the Dark Army for fsociety's FBI hack, but they break off a hypodermic needle in his finger for asking too many questions. Dominique was spared in the shooting, as both attackers killed themselves. Though the attack gets blamed on Chinese separatists, she is determined to investigate the Dark Army. Congress refuses to move forward with Phillip Price's bailout plan to borrow from China because four FBI agents were killed there. Darlene and Mobley coach Angela through hacking the FBI, but Dominique appears just before she can finish."
+      },
+      {
+        "no_all": 17,
+        "title": "eps2.5_h4ndshake.sme",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2016-08-17",
+        "us_milions_viewers": 0.68,
+        "plot": " Dominique learns Angela's history and is suspicious when the FBI is hacked. Angela confronts Darlene about her and Elliot creating fsociety after remembering the masks originate from a movie they watched many times as kids. Angela settles the E Corp v Washington Township lawsuit, and through Price, she's reassigned to the Risk Management division. But she oversteps boundaries at her first director's meeting. fsociety is able to interrupt Price's bailout vote. Mr. Robot admits to Elliot that they shot Tyrell. Elliot fixes Ray's website, but also alerts the FBI via the internet after seeing they are selling slaves, drugs and heavy weapons on the Dark Net. Ray realizes what Elliot has done and feeling remorse, lets Elliot go as the FBI arrive. Mr. Robot encourages Elliot to be a leader, making peace with him to benefit them both. A gang attacks Elliot for shutting down Ray's website but Leon stops them; he works for the Dark Army, protecting Elliot for Whiterose. Leon tells Elliot he'll get a letter and to do what it says. Elliot admits to Krista he knows he was never at his mother's, and the viewer finally learns that he is in prison."
+      },
+      {
+        "no_all": 18,
+        "title": "eps2.6_succ3ss0r.p12",
+        "directed_by": "Sam Esmail",
+        "written_by": "Courtney Looney",
+        "air_date": "2016-08-24",
+        "us_milions_viewers": 0.74,
+        "plot": "fsociety learns that Project Berenstain is illegal surveillance of three million people for the Five/Nine investigation that has yielded 16 prime suspects, one of them deceased. Mobley fears that Romero is the dead suspect, meaning the FBI is close to them. fsociety releases this information, causing problems for the FBI, but Susan Jacobs comes home and sees them. They tie her up and try to hack her for blackmail information, but Darlene remembers Susan laughing when E Corp was cleared in the case regarding the toxic leak that killed her father. Darlene shocks her with a stun gun, fatally because of Susan's heart condition, and claims it was self-defense, an accident. Darlene and Cisco incinerate Susan's body while Mobley and Trenton panic. Dominique interviews the owner of Darlene's stolen gun and brings Mobley in for questioning about the arcade, still hunting for Tyrell. He gives her nothing and Dominique is forced to let him go. Mobley warns Trenton they must run, but is two hours late for his meeting with Trenton though someone does find her. Angela's fling was an FBI plant, but she ditched him for an older man. Darlene sees Cisco is reporting back on her to the Dark Army and attacks him with a baseball bat."
+      },
+      {
+        "no_all": 19,
+        "title": "eps2.7_init_5.fve",
+        "directed_by": "Sam Esmail",
+        "written_by": ["Kyle Bradstreet", "Lucy Teitler"],
+        "air_date": "2016-08-31",
+        "us_milions_viewers": 0.65,
+        "plot": " The knock on Elliot's door was the police to arrest him for hacking Lenny, Krista's ex, and stealing his dog. He pleads guilty; he's in jail the next day with Ray as warden, establishing his illusion. Even though his sentence is for 18 months, he's released 86 days later due to cost control measures. Darlene informs him Mobley and Trenton are missing. Through Cisco, they hack a Dark Army agent's phone to monitor conversations referring to a 'Stage 2.' Angela hacks E Corp herself, discovering the toxic waste leak at the Washington Township plant wasn't fixed, though grows too suspicious to be a whistleblower; Dominique tells her she's running out of options. Darlene left an fsociety tape with her face at Susan's house; Cisco retrieves it and hears someone. Whiterose had arranged the death of the previous E Corp CEO for interfering with the plant. Price is able to calm Zhang (Whiterose) by saying he can keep the plant if China loans E Corp some bailout money as goodwill. Elliot and Mr. Robot notice that they are somehow disconnecting from each other. Darlene hears the Dark Army say Stage 2 is Elliot's plan as someone knocks at her door. Waiting for Elliot outside his apartment is Joanna."
+      },
+      {
+        "no_all": 20,
+        "title": "eps2.8_h1dden-pr0cess.axx",
+        "directed_by": "Sam Esmail",
+        "written_by": ["Kor Adana", "Randolph Leon"],
+        "air_date": "2016-09-07",
+        "us_milions_viewers": 0.76,
+        "plot": " Price has Colby pull political strings to allow China to annex the Congo in exchange for a financial bailout of E Corp. Cisco finds one of fsociety's members badly wounded and persuades Darlene that he needs a hospital. A witness identifies Cisco leaving Susan's house and the authorities begin to investigate if her vacation is really a disappearance. Despite Dominique's protests that the Dark Army will attack, Cisco's image is released to the media as a Five/Nine suspect. The BOLO is later seen by the hospital's ER staff, who report his location. Joanna persuades Elliot to track the phone she believes was left by Tyrell. Elliot traces the call to a nearby residence, but Mr. Sutherland thinks it won't be Tyrell based on the location. Elliot and Angela later meet on the subway to talk. She makes him realize there are more gaps in his memory and warns him not to trust Mr. Robot. Defeated, Angela intends to confess with her lawyer, admitting her part in the FBI hack. After sharing a kiss with Elliot, she is approached by two figures. Dominique tracks Darlene and Cisco to a restaurant but, while she's inside, a Dark Army shooter opens fire on them, and she emerges from the restaurant covered in splattered blood."
+      },
+      {
+        "no_all": 21,
+        "title": "eps2.9_pyth0n-pt1.p7z",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2016-09-14",
+        "us_milions_viewers": 0.68,
+        "plot": " Dominique demands the shootout be investigated as a possible act of war by the Dark Army, but is told the government will not upset China after they just gave the U.S. a $2 trillion loan. Joanna considers the phone's location to be a great gift from Tyrell. Phillip Price uses the bailout money to strengthen Ecoin, forcing the government to support him to keep pace with China and rebuilding the banking sector. Angela is taken to a house where an apparently tortured young girl gives her a psych evaluation. Her captor is Whiterose, who says Angela should have died months ago; she wants Angela to believe in Whiterose's cause and claims Angela's mother and Elliot's father died for a greater good. Upon returning to the city that night, Angela tells her lawyer never to call her again. Elliot uses a lucid dreaming technique to watch Mr. Robot decode a message in the apartment. As he follows him, Elliot then takes control on the way to a waiting cab. To his astonishment, Tyrell gets in. Despite accepting his destination, the cab driver doesn't directly acknowledge Tyrell's existence and kicks Elliot out for panicking. Tyrell says the Dark Army has Stage 2 ready and that Elliot will be pleased."
+      },
+      {
+        "no_all": 22,
+        "title": "eps2.9_pyth0n-pt2.p7z",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2016-09-21",
+        "us_milions_viewers": 0.85,
+        "plot": " Months before, Tyrell begged Elliot to be let in on the plan. Present day, he takes Elliot to a discreet location, across the street from where E Corp is revealed to be gathering all its paper records. Elliot realizes that Stage 2 involves engineering an explosion at the backup facility to permanently destroy E Corp's data. Scott Knowles is the owner of the mystery phone, gaslighting Joanna to make her suffer because he wanted her to feel what he felt. Scott beats up Joanna after she slanders his deceased wife. Joanna convinces Derek to frame Scott for Sharon's murder as payback. After the Dark Army's attack, Darlene is interrogated by the FBI. Dominique shows her that she plays a big role in the FBI's investigation. Convinced that Tyrell is not real, Elliot tries to undo the firmware hack, but Tyrell shoots him with Darlene's stolen gun. Angela gets a call from a distraught Tyrell through the Dark Army, departing to be with Elliot when he awakes. In a post-credits scene, Mobley and Trenton are revealed to be hiding out on the West Coast. Trenton reveals to Mobley she's found a way to undo the hack. As Mobley expresses his desire to move on from the incident, the two are approached by Leon, who asks for the time."
+      },
+      {
+        "no_all": 23,
+        "title": "eps3.0_power-saver-mode.h",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2017-10-11",
+        "us_milions_viewers": 0.68,
+        "plot": "Zhang intends for Elliot to die once his work for the Dark Army is complete. In a panic that Elliot might die, Tyrell calls used car salesman and Dark Army agent Irving. Elliot wakes up a week later in a room with Angela. He finds the firmware hack building empty. Darlene shows up and pumps him for information, but he lies and says Tyrell was never involved. With the power still out, she takes him to an underground hacker tournament with fiber connections. He shuts the backdoor into E Corp, but Dark Army agents force them to leave. Irving shakes their FBI tail and Elliot thinks he has called off Stage 2. Thinking his revolution made things worse, he asks Angela for a job at E Corp to fix things. That night, Mr. Robot emerges and Angela takes him to work with Irving and Tyrell, creating another way to advance Stage 2. Angela plans to manipulate Elliot along with Mr. Robot, believing in Whiterose's plan to undo everything E Corp has ever done and create a new world."
+      },
+      {
+        "no_all": 24,
+        "title": "eps3.1_undo.gz",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2017-10-18",
+        "us_milions_viewers": 0.51,
+        "plot": "Five weeks on, Elliot works his way up within E Corp, turning in lower executives and convincing a middle manager to start digitizing the paper records while secretly moving the rest away from the Stage 2 building to an E Corp warehouse. Scott Knowles is arrested for Sharon's murder. Joanna goes on television saying she will always love Tyrell; Derek kills her and Mr. Sutherland kills Derek. An unknown source releases another fsociety video. Dominique and the FBI put pressure on Darlene, revealing the prison phone call Elliot made to Tyrell. Darlene stays over at Elliot's, but Mr. Robot emerges and scares her. Phillip Price has every necessary nation except China on board for Ecoin. When Price tries to threaten Zhang with the UN vote to let China annex the Congo, Zhang reveals his hold on Angela. Zhang wants Stage 2 to commence on the day of the vote whether they win or lose, to punish Price. Elliot lets Mr. Robot out during a therapy session where he tells Krista that he and Elliot were compromised. Lenny returns the sick dog. Elliot realizes Darlene bugged his computer and goes to Darlene's FBI safe house."
+      },
+      {
+        "no_all": 25,
+        "title": "eps3.2_legacy.so",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2017-10-25",
+        "us_milions_viewers": 0.54,
+        "plot": " The night of the hack, Mr. Robot tries to shoot Tyrell, but the gun jams. Tyrell then convinces Mr. Robot he needs him for Stage 2. Irving and the Dark Army appear, stating Gideon told the FBI that Tyrell shut down the honeypot, making him the prime suspect of the hack. They take Tyrell to a cabin in a secluded area. The psych evaluation breaks him, but he admits he will always be loyal to Elliot. Zhang begins working on both Tyrell and Elliot. Tyrell is given secure access to engineer Stage 2 with Cisco's firmware. The reports of Joanna moving on make Tyrell snap and go for a walk, whereupon he is arrested by a local police officer. The officer is killed by FBI Agent Santiago, another Dark Army plant and Dominique's superior, thereby ensuring that nobody knows about Tyrell. Irving is able to calm Tyrell, saying he can win his family back when this is over. Irving checks on Elliot through Leon. Tyrell is taken to a Dark Army-controlled hotel and is excited to meet Elliot again. After having to tranquilize him, Angela explains Mr. Robot's existence to Tyrell. After the surgery, Mr. Robot awakens and smiles at Tyrell for following the plan."
+      },
+      {
+        "no_all": 26,
+        "title": "eps3.3_metadata.par2",
+        "directed_by": "Sam Esmail",
+        "written_by": "Kyle Bradstreet",
+        "air_date": "2017-11-01",
+        "us_milions_viewers": 0.55,
+        "plot": "Darlene is able to play off Elliot's suspicions of her by bonding over their shared distrust of Mr. Robot. Elliot admits Stage 2 was never called off, suspecting Mr. Robot emerges at night and asking Darlene to hide in Shayla's vacant apartment to follow him. Darlene spirals when she sees Mr. Robot leave with Angela. Tyrell has lost all faith in Elliot after finding out about the delays in shipping the records. With three days before Stage 2 is set to occur, Angela says they can move all the paper records over the weekend. She tranquilizes Elliot when he emerges and sees Tyrell and her. Angela has Phillip Price fire Elliot to prevent him from interfering. Tyrell wants himself and his family sent to safety in Ukraine after Stage 2. Dominique captures the source of the new fsociety video, still convinced it's truly Dark Army. Darlene promises to follow a lead, but without a wire and having made Elliot promise to get vengeance if something happens to her."
+      },
+      {
+        "no_all": 27,
+        "title": "eps3.4_runtime-error.r00",
+        "directed_by": "Sam Esmail",
+        "written_by": ["Kor Adana", "Randolph Leon"],
+        "air_date": "2017-11-08",
+        "us_milions_viewers": 0.52,
+        "plot": "With no memory of the past four days, Elliot goes to work the day of the UN vote. He realizes he's been fired and that Stage 2 is going to happen today. He tries to evade security to shut it down, but is caught and escorted out. He tries calling in a bomb threat to get the target building evacuated, while a large gathering of anti E Corp protesters gathers at headquarters. Darlene appears, admitting she's working with the FBI and that Angela is working with Mr. Robot, helping Elliot remember his lost days. The protesters break into E Corp, terrifying the workers. Irving calls Angela, stating that the riot is a distraction so they can send Elliot to copy important data from an HSM in a secure room as a prerequisite to Stage 2. Angela hears that the UN agreed to the annexation, then is approached by a suspicious security guard. She attracts the protesters, who attack the security guard, so she can complete the assignment intended for Elliot, then passes the data to a Dark Army agent. Elliot confronts her in the chaos, asking if there's something she needs to tell him."
+      },
+      {
+        "no_all": 28,
+        "title": "eps3.5_kill-process.inc",
+        "directed_by": "Sam Esmail",
+        "written_by": "Kyle Bradstreet",
+        "air_date": "2017-11-15",
+        "us_milions_viewers": 0.59,
+        "plot": "Angela tells Elliot nothing, but he realizes Tyrell is at the Red Wheelbarrow restaurant; Darlene relays this information to Dominique. Though Agent Santiago stonewalls them, Dominique and her partner check it out themselves. Irving gives Tyrell written instructions that upset him. Dominique finds Tyrell's hideout at the restaurant, but just misses him. Meanwhile, Elliot goes to the Stage 2 target building to prevent the explosion from the inside, even though Mr. Robot constantly delays him and makes Elliot attack himself. Darlene confronts Angela, threatening to report her to the FBI, but Angela insists nobody will be hurt. Elliot convinces Mr. Robot to help when they realize the paper records are not in the building. Dominique sees Tyrell get arrested in public, screaming for them to stop the attack. Believing he has stopped Stage 2, Elliot is pondering Whiterose's true plan when he sees reports of explosions at the 71 E Corp facilities to which he redirected the paper records, leaving thousands dead. Elliot realizes that he is responsible for the increased magnitude of Stage 2."
+      },
+      {
+        "no_all": 29,
+        "title": "eps3.6_fredrick+tanya.chk",
+        "directed_by": "Sam Esmail",
+        "written_by": "Adam Penn",
+        "air_date": "2017-11-22",
+        "us_milions_viewers": 0.54,
+        "plot": "Elliot runs to Krista and Mr. Robot makes her realize Elliot may actually be involved. Darlene is unsettled by Angela's delusion that the dead will still be alright and come back. Irving makes Mr. Robot realize his entire revolution only occurred because the elite allowed it. Zhang plans to move the Washington Township plant to the Congo; Zhang ruined Price as punishment for his disobedience and for not controlling Angela and the lawsuit and now intends to select his replacement. Leon kills Mobley's friend and makes Mobley and Trenton help bury the body in the desert. Returning home, they are met by Zhang's assistant and Dark Army agents. Tyrell plays the part of captive, despite Dominique's disbelief. Tyrell identifies the leaders of fsociety who are planning another attack within 24 hours as the two suspects being revealed to the public. Agent Santiago reveals Joanna's death and threatens Tyrell's son if Tyrell goes off the plan. The Dark Army shows Mobley and Trenton code for an attack on air traffic control and forces them to shoot themselves in the head. Dominique watches the raid find the two bodies that tie fsociety to Iran. A stunned Dominique believes the true mastermind, Whiterose, will actually get away with it."
+      },
+      {
+        "no_all": 30,
+        "no_season": 8,
+        "title": "eps3.7_dont-delete-me.ko",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2017-11-29",
+        "us_milions_viewers": 0.44,
+        "plot": "Elliot tells Darlene that nothing, from drugs to therapy to voluntarily placing himself in jail, is keeping Mr. Robot at bay, saying that the world falling apart around him is his fault. He puts his affairs in order by giving his dog to his neighbor, throwing his Mr. Robot jacket away, and going to Trenton and Mobley's families to pay his respects. Elliot buys a lethal amount of morphine pills and heads to Coney Island to commit suicide, but is deterred by Mohammad, Trenton's younger brother, whom Elliot is forced to look after when his parents leave him alone. After Mohammad leaves a movie that Elliot takes him to and goes to a mosque, he is confronted by Elliot, who admits that he wishes he was dead. After dropping Mohammad back off at his home, he goes to Angela's apartment and reminds her of a 'wishing game' they used to play as kids, which gives Elliot the will to live. After arriving home, getting the jacket back, and reinstalling his computer, he notices a message sent from Trenton before her death saying that there is a way to undo the hack."
+      },
+      {
+        "no_all": 31,
+        "title": "eps3.8_stage3.torrent",
+        "directed_by": "Sam Esmail",
+        "written_by": ["Kyle Bradstreet", "Courtney Looney"],
+        "air_date": "2017-12-06",
+        "us_milions_viewers": 0.43,
+        "plot": "Mr. Robot goes to Tyrell's home, where they both meet Price, who announces Tyrell will be a figurehead as the new CTO. Tyrell realizes he is still the Dark Army's puppet, but they have a weakness in the FBI. Elliot resurfaces, reading Mr. Robot's message about the connection. Trenton's email reveals Romero kept the encryption keys of Five/Nine which could reverse everything and are now inside the FBI. Darlene seduces Dominique, but is caught trying to get her badge. Angela is still deluded, believing in Whiterose's plan to undo everything and no longer trusting Elliot; men pick Angela up. Darlene tells the truth to the FBI, also stating she knows the Dark Army owns them. Santiago panics and calls Irving. Through Irving and Leon, Elliot meets with Zhang's assistant for a fake Stage 3; their scan of his laptop gives him access to the Dark Army. Whiterose is outraged that moving the plant to Congo will take a month. She gives permission for Elliot to die."
+      },
+      {
+        "no_all": 32,
+        "title": "shutdown -r",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2017-12-13",
+        "us_milions_viewers": 0.45,
+        "plot": " Dominique and Darlene, kidnapped by Santiago after finding out his double agent status, and Elliot are brought to an abandoned barn. Santiago and Dominique go outside to Irving where Santiago is killed and Dominique is forced to be the new FBI mole. Inside, Whiterose’s assistant Grant prepares to kill Elliot and Darlene. Elliot devises a plan to move Whiterose’s plant to the Congo sooner, which Elliot is allowed to try. Grant kills himself when Whiterose says he is no longer of any use. Elliot succeeds in moving the plant and the ordeal comes to an end with everyone safe. Darlene tries apologizing to Dominique but she refuses the apology out of hatred. Dominique gives Elliot access to the FBI, where he learns that Romero wasn’t responsible for the encryption keys; instead, Mr. Robot saved them, as it is what Elliot would want. The two make peace and vow to bring down the true villains of the world as Elliot reverses Five/Nine. Meanwhile, Angela is brought to Phillip Price’s house, where he reveals to her that he is her actual father and convinces her of Whiterose’s villainous nature. In a post-credits scene, Darlene is confronted by Vera in front of Elliot’s apartment."
+      },
+      {
+        "no_all": 33,
+        "title": "401 Unauthorized",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2019-10-06",
+        "us_milions_viewers": 0.44,
+        "plot": " The season picks up from the previous season with Angela's conversation with Price. Angela demands revenge against Whiterose, but Price tries and fails to talk her out of it. While he walks away, Dark Army agents show up and kill Angela. Whiterose gives Elliot until the end of December to live, sending him a picture of Angela's body as a warning. In mid-December, Tyrell has become sullen and bored as the CTO puppet. Dominique has moved in with her mother and becomes very paranoid; her mother's new friend Janice is her new Dark Army handler, warning her to return to work to clean up Santiago's mess. Elliot and Mr. Robot work together to blackmail a lawyer, Freddy, and are able to get information that Whiterose uses Cyprus National Bank and John Garcin. Freddy kills himself when he realizes the Dark Army is after him. Darlene has fallen into addiction over guilt about Angela's disappearance (Elliot cannot bring himself to show her the proof of her death). Elliot investigates John Garcin, but it is a trap. Elliot is dragged away and injected by three men; he thinks he is about to die. The men revive him and Price reveals himself."
+      },
+      {
+        "no_all": 34,
+        "title": "402 Payment Required",
+        "directed_by": "Sam Esmail",
+        "written_by": "Kyle Bradstreet",
+        "air_date": "2019-10-13",
+        "us_milions_viewers": 0.34,
+        "plot": " Price returns Elliot to his hideout. He tells him about a group that funds the Dark Army known as Deus, which Zhang had built globally for decades. Price knows that former E-Corp employee Susan Jacobs had Dark Army ties before her disappearance and tells Elliot to get to the Deus group's money through her. Elliot gets a call from Darlene telling him their mother has died. They find that their mother owned a safety deposit box, but the bank disposed of it before her death. Darlene admits she is really grieving for Angela. After the funeral, Darlene confesses to Elliot that she killed Susan Jacobs and joins him against Whiterose. She thanks him for taking care of Vera, who has returned. Elliot argues with Mr. Robot, with both of them denying any knowledge of Vera's return. In his mind, Elliot's mother tells a younger version of himself to wait for 'the other one.' Meanwhile, Dominique lies to the FBI about what happened to Santiago, only for her interrogator to be killed in a faux suicide by Janice. Price tells Zhang that he is resigning from E-Corp and thus cutting ties with the Dark Army, which will force the Deus group to meet in person to choose his successor."
+      },
+      {
+        "no_all": 35,
+        "title": "403 Forbidden",
+        "directed_by": "Sam Esmail",
+        "written_by": "Courtney Looney",
+        "air_date": "2019-10-20",
+        "us_milions_viewers": 0.29,
+        "plot": " On Christmas Eve, Wang Shu advises Zhang to call off the Deus Group meeting. Instead, he sets the meeting for the next day. Zhang recalls his former lover Chen committing suicide after his forced marriage. Zhang chooses to make Tyrell CEO of E-Corp. Elliot approaches Krista on the street, but she fearfully pushes him away. Elliot and Darlene argue about the plan. Elliot and Mr. Robot hack Cyprus Bank employee Olivia Cortez. Finding her in a bar, Mr. Robot buys her a drink. They talk about their families before Elliot kisses her and she takes him home. Vera's informant keeping tabs on Elliot delivers a picture of Elliot and Krista to the butcher shop out of which Vera's smuggling drugs. Vera shoots him for being unreliable. While Olivia sleeps, Elliot gets a passcode he needs and sends it to Darlene. Olivia comes to him and opens up about her issues with drugs and self-harm. On their way to Allsafe, Elliot mentions to Mr. Robot that they're being followed by a white van. Going home instead, Elliot finds Tyrell has broken into his apartment. Before Elliot can warn him that the Dark Army is likely listening, Tyrell reveals that he will be the CEO of E-Corp and how his position will let them take down the Dark Army."
+      },
+      {
+        "no_all": 36,
+        "title": "404 Not Found",
+        "directed_by": "Sam Esmail",
+        "written_by": "Kyle Bradstreet",
+        "air_date": "2019-10-27",
+        "us_milions_viewers": 0.34,
+        "plot": " Tyrell knocks out the Dark Army agent in the white van. At a remote gas station, Tyrell and Elliot come out to find the van and agent gone. Lost in a forest and walking in a giant circle, they agree they cannot start over or get out. Tyrell wants to give up when Elliot admits he never cared about him; he keeps going for Darlene's sake and wants to warn her before the Dark Army kills him. Darlene realizes Olivia's access isn't enough and the bank needs to be hacked directly. Seeing Elliot's apartment broken into, Darlene fears Elliot is dead. She tries to steal a car and ends up giving a ride to a children's hospital volunteer Santa. She admits all she has left is her brother, who she still loves, despite being furious at him. Dominique has a nightmare about being drowned in a bathtub by a woman she invited over who puts on a Dark Army mask. Waking up, Dominique appears to get her determination back. Elliot, Tyrell, and Mr. Robot find the van has hit a deer; the Dark Army agent shoots at them before killing himself. Shot in the stomach, Tyrell tells Elliot to finish it and take care of Whiterose. Walking into the forest, a dying Tyrell finds a light as the screen fades to white."
+      },
+      {
+        "no_all": 37,
+        "title": "405 Method Not Allowed",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2019-11-03",
+        "us_milions_viewers": 0.31,
+        "plot": " On Christmas morning, Elliot burns the van and is picked up by Darlene. Elliot and Darlene, posing as an employee, break into Virtual Realty, the company that keeps the servers for Cyprus National Bank. Elliot installs a firmware hack that gives them 40 minutes to get the information they need while temporarily disabling the security cameras. Nearly getting caught, Elliot triggers a power outage, which aids their escape. The security team calls the police when they realize they've been infiltrated, but only lays eyes on Elliot. He leads the police on a foot chase through Central Park. Darlene is able to walk out, now posing as a gym attendee, and pick up Elliot after he is hit by a car and leaps over a guard rail. Dominique is sent by Janice to the local police department to give the Dark Army control over the van investigation. While meeting with her family, the Central Park incident is on the news. Janice sends her out again to immediately capture Darlene and Elliot, seen on a traffic camera. Elliot texts Price that Tyrell won't be coming to the meeting. Price follows clues to the location of the Deus Group meeting that night and replies that it'll happen with or without Tyrell. Krista is confronted by Vera."
+      },
+      {
+        "no_all": 38,
+        "title": "406 Not Acceptable",
+        "directed_by": "Sam Esmail",
+        "written_by": "Amelia Grey",
+        "air_date": "2019-11-10",
+        "us_milions_viewers": 0.36,
+        "plot": " Vera holds Krista hostage, interrogating her about Elliot. Elliot brings Olivia coffee after getting drugs from Leon in the coffee shop, tells her about the Deus Group, and asks for her help. When she refuses, he reveals he's spiked her coffee with Oxycontin, knowing she'll lose her son if she doesn't stay clean. Holding Darlene at gun point, Dominique calls Janice, who tells her to kill Darlene, since only her phone with Elliot's location is necessary. Dominique knocks Darlene out and throws her in a bathtub. Elliot attempts to force Olivia to call her co-worker who can get him access to Cyprus National Bank's more classified information. She goes to her bathroom and slits her wrists, but Elliot is able to keep her from bleeding out. She calls her co-worker after realizing the Deus Group was connected to her mother's death. Krista gives Vera her files on Elliot. Darlene comes to and attempts to reason with Dominique. Dominique tells Darlene to kill her so her family will be spared the Dark Army's wrath, but Janice arrives. Darlene reveals that she wiped her phone. Krista calls Elliot, warning him that Vera is coming. He tells her to meet him in Washington Square, knowing Vera will be there. Elliot is kidnapped in the street by Vera's men."
+      },
+      {
+        "no_all": 39,
+        "title": "407 Proxy Authentication Required",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2019-11-17",
+        "us_milions_viewers": 0.36,
+        "plot": " Vera offers Elliot, tied to a chair, a position by his side in taking over New York. Vera brings Elliot to Krista and insists on meeting Mr. Robot. Coming forward, Mr. Robot offers to help Vera if he lets Krista go, but Vera protests. Elliot offers Vera the money from the Cyprus hack. While Vera and his men are distracted by the hack's details, Elliot pulls the gun from his bag, but Vera's men had already unloaded it. Mr. Robot attempts to reason with Vera, who threatens to shoot Krista until Elliot admits he needs her. Vera unties Krista and forces her and Elliot to have an impromptu therapy session. Elliot thinks Mr. Robot and Krista are keeping a secret from him and urges Vera to read from her files. Krista asks Elliot about the day he jumped out his window as a boy, revealing Mr. Robot has always existed, protecting Elliot from his father. Elliot finally remembers his father molested him, despite Mr. Robot manipulating his memory to lead him to believe he was a good man. Vera attempts to console Elliot, revealing his own past with sexual abuse involving friends of his mother. He confides his philosophy that people who suffer like them become unstoppable. Elliot admits he doesn't want to be alone and Vera assures him that he isn't. Krista, sneaking up, fatally stabs Vera in the back."
+      },
+      {
+        "no_all": 40,
+        "title": "408 Request Timeout",
+        "directed_by": "Sam Esmail",
+        "written_by": "Robbie Pickering",
+        "air_date": "2019-11-24",
+        "us_milions_viewers": 0.37,
+        "plot": " Elliot and Krista escape her apartment before Vera's men return and find his body. Krista heads to the police station, but Elliot follows a younger version of himself to the Queens Museum. There, he finds his father's key to his childhood bedroom, now remembering he had hidden it in one of the walls as his way of fighting back. An hour before the Deus Group is set to meet, Mr. Robot apologizes to Elliot for failing to protect him; Elliot admits he created him to be the father he needed. Elliot breaks down as Mr. Robot comforts him. Janice binds Darlene and Dominique, ordering Darlene to restore her phone so that she can find Elliot. Janice stabs Dominique, telling Darlene to give up Elliot or Dominique will die. Janice calls her team, threatening to kill Dominique's family members. Darlene gives in, asking for her phone. Janice's men fail to find Elliot at Krista's apartment. She calls her team outside Trudy's house, but no one answers the phone. Janice learns that Dominique sent Deegan and the Irish mob to rescue her family and take them to a safe house, killing the Dark Army agents in the process. While Janice is distracted, Dominique manages to shoot her in the head. Dominique calls for backup and tells Darlene to find Elliot."
+      },
+      {
+        "no_all": 41,
+        "title": "409 Conflict",
+        "directed_by": "Sam Esmail",
+        "written_by": "Kyle Bradstreet",
+        "air_date": "2019-12-01",
+        "us_milions_viewers": 0.36,
+        "plot": " In Elliot's mind, Mr. Robot argues with Magda and Young Elliot about revealing everything even though Elliot hasn't woken up yet, saying Mr. Robot can show him what Elliot has done and Darlene might be able to awaken him. Mr. Robot and Darlene prepare to hack the Deus Group; Price gives them information on Whiterose's machine so they can destroy it for Angela. Zhang, suspicious that Price and Elliot are planning something, secretly moves the Deus Group meeting location and meets Price alone at the original location, although Zhang is alarmed when Tyrell is absent. Discovering the meeting's new location, Mr. Robot sends Darlene there while he stays to get Zhang's information. Mr. Robot calls Zhang on Price's phone. Zhang says that Angela can be brought back, causing Elliot to reemerge, but he turns down the offer. Darlene releases an fsociety video publicly exposing the Deus Group and their location, taking their data when they call their drivers to pick them up. Elliot hacks a nearby cellphone tower for Zhang's data and the Deus Group is robbed. Price mocks Zhang, saying all this occurred because of Angela living on in her loved ones. Zhang shoots Price, glimpsing Elliot as he leaves. The FBI arrives at Whiterose's residence and gunfire is heard outside her room as she puts on her makeup."
+      },
+      {
+        "no_all": 42,
+        "title": "410 Gone",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2019-12-08",
+        "us_milions_viewers": 0.45,
+        "plot": " Following the Deus Group hack, Zhang's identity as Whiterose has become public. Dominique has mostly recovered and leaves the hospital. Under FBI investigation for her actions as a Dark Army agent, she's not allowed to see her family. Darlene convinces her to run away with her and Elliot, to hide from the Dark Army. Instead, Elliot departs alone for the Washington Township plant. Leon transports Darlene and Dominique to the airport, giving Dominique advice about living with a new identity. Darlene transfers a substantial portion of the Deus Group's money to everyone with Ecoin accounts, seeing it as justice. Dominique is frightened upon seeing Irving at the airport bookstore, promoting his new novel. He informs her the Dark Army don't care about her or Darlene anymore. Without that threat, Dominique chooses not to fly to Budapest with Darlene, having a job and family to look after. At the gate, Darlene has a panic attack about being alone and flees to a bathroom, missing Dominique, who turned back to get on the plane. Darlene steadies herself and becomes okay on her own, missing the flight. Dominique finally gets some sleep as the plane takes off for her fresh start."
+      },
+      {
+        "no_all": 43,
+        "title": "eXit",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2019-12-15",
+        "us_milions_viewers": 0.44,
+        "plot": "Whiterose's men kill the FBI agents sent for Zhang, as she proclaims there is only Whiterose now. Elliot finds the Washington Township nuclear plant seemingly deserted. He activates his hack to destroy Whiterose's machine, but is found by Dark Army agents, who lead him past the slaughtered employees to Whiterose. They argue about the nature of people, hatred, and the world. Whiterose claims her machine will create a better world. Elliot says those who love him, even when he hates himself, make the world worth saving. Whiterose has already activated the machine, triggering a meltdown. She says Elliot has a choice and kills herself. Elliot plays an adventure game Whiterose left for him on an old computer, thinking he can stop the meltdown, but seems to be too late. He and Mr. Robot express their love for each other as everything turns red. In an alternate world, Elliot is upbeat and happy, CEO of AllSafe, engaged to Angela, and an only child, one with a loving relationship with his still-living father. Zhi Zhang is a beloved, wealthy woman known for her philanthropy. Elliot lands a major account with F Corp after saying he'll always stand with Tyrell, who is F Corp’s CEO. Elliot returns home, surprised to see Elliot in a hoodie, whom he doesn’t recognize, sitting at his computer. He asks for help, but is told to wait for the next episode. Elliot is told to wait for the next episode."
+      },
+      {
+        "no_all": 44,
+        "title": "whoami",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2019-12-22",
+        "us_milions_viewers": 0.46,
+        "plot": " Elliot wakes up in an abandoned lot following the explosion at the Washington Township plant, which is no longer there. He discovers the town is a thriving suburbia, where his mother and father, both alive, live. He finds out that his parents never abused him as a child and that Darlene does not exist. He returns to the city, where he encounters Angela's parents, Emily and Phillip (the latter still being in Angela's life), and they reveal to him that Elliot is marrying Angela the following day. He goes to the alternate Elliot's apartment and hacks his computer, discovering a hidden drive of sketches of himself, Darlene, and the rest of fsociety. The alternate Elliot returns home to find the original Elliot at his iMac (as depicted at the end of the previous episode). Initially alarmed, the alternate Elliot explains that the sketches are of a persona he created that would lead an exciting life as a vigilante hacker, the very life the original Elliot lives. They touch, causing another earthquake, which severely injures the alternate Elliot. Alternate Elliot gets a call from Angela; hearing her for the first time since her death, the original Elliot decides that he can have the life he always wanted and kills the alternate Elliot."
+      },
+      {
+        "no_all": 45,
+        "title": "Hello Eliot",
+        "directed_by": "Sam Esmail",
+        "written_by": "Sam Esmail",
+        "air_date": "2019-12-22",
+        "us_milions_viewers": 0.31,
+        "plot": " Elliot hides the alternate Elliot's body in a storage container, intent on taking the alternate Elliot's place and marrying Angela. A police officer, Dominique, attempts to arrest Elliot after she discovers the alternate Elliot's body. Elliot escapes to Coney Island, where he discovers that there was no wedding. Mr. Robot explains to Elliot that the world they are in is not the parallel world Whiterose spoke of, but rather an illusion created by Elliot with the intention of keeping 'the real Elliot' trapped. Bewildered and confused, Elliot wakes up in Krista's office. Krista (who is a manifestation of Elliot's mind at this point) explains that the Elliot we have known since the beginning of the series is not the real Elliot, but a persona called 'The Mastermind' that the real Elliot created to deal with his rage and anger at the world. However, this persona decided to take over and trapped the real Elliot in the Utopian world, getting rid of Darlene, who is the real Elliot's strongest connection to reality; Krista explains that the Mastermind must give control back to the real Elliot, but he refuses as the world collapses. The Mastermind wakes up in the hospital, where Darlene reveals that Whiterose is dead, her machine was destroyed, and she knew that the Mastermind had taken over. Accepting his identity, the Mastermind returns to Elliot's mind with the rest of his personas. The real Elliot wakes up in the hospital and is greeted by Darlene."
+      }
+    ],
     "season_1": [
       {
         "no_all": 1,

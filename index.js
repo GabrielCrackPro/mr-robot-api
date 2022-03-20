@@ -51,6 +51,16 @@ app.get("/characters", (req, res) => {
   res.send(data.characters);
 });
 
+app.get("/characters/:id", (req, res) => {
+  const id = req.url.split("/")[2];
+  const character = data.characters[0].main[id - 1];
+  if (character) {
+    res.set(responseHeaders);
+    res.send(character);
+  } else {
+    res.status(404).send({ error: "Character not found" });
+  }
+});
 // POST Routes
 
 app.post("/characters/new", (req, res) => {

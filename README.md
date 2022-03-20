@@ -214,7 +214,6 @@ https://mr-robot-express-api.herokuapp.com/characters/1
   - [x] Seasons
     - [x] Get all seasons
     - [x] Get a season by ID
-- [ ] Add pagination
-- [ ] Add documentation
-- [ ] Create frontend for documentation
-- [ ] Deploy to Heroku
+- [x] Add documentation
+- [x] Deploy to Heroku
+- [ ] Create testing UI

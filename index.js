@@ -68,6 +68,17 @@ app.get("/seasons", (req, res) => {
   res.set(responseHeaders);
   res.send(data.episodes[0].overview);
 });
+// Get a season by id
+app.get("/seasons/:id", (req, res) => {
+  const id = req.url.split("/")[2];
+  const season = data.episodes[0].overview["season_" + id];
+  if (season) {
+    res.set(responseHeaders);
+    res.send(season);
+  } else {
+    res.status(404).send({ error: "Season not found" });
+  }
+});
 // Get all episodes
 app.get("/episodes", (req, res) => {
   res.set(responseHeaders);

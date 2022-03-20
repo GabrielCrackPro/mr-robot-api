@@ -7,6 +7,7 @@ const Joi = require("joi");
 const data = {
   details: require("./api/data/details.json"),
   characters: require("./api/data/characters.json"),
+  episodes: require("./api/data/episodes.json"),
 };
 
 const corsOptions = {
@@ -41,16 +42,17 @@ const schemas = {
 
 // GET Routes
 
+// Get series details
 app.get("/", (req, res) => {
   res.set(responseHeaders);
   res.send(data.details);
 });
-
+// Get all characters
 app.get("/characters", (req, res) => {
   res.set(responseHeaders);
   res.send(data.characters);
 });
-
+// Get characters by id
 app.get("/characters/:id", (req, res) => {
   const id = req.url.split("/")[2];
   const character = data.characters[0].main[id - 1];
@@ -59,6 +61,23 @@ app.get("/characters/:id", (req, res) => {
     res.send(character);
   } else {
     res.status(404).send({ error: "Character not found" });
+  }
+});
+// Get all episodes
+app.get("/episodes", (req, res) => {
+  res.set(responseHeaders);
+  res.send(data.episodes);
+});
+// Get episodes by number of episode in the season
+app.get("/episodes/:no_season/:no_in_season", (req, res) => {
+  const season = "season_" + req.url.split("/")[2];
+  const episode = req.url.split("/")[3];
+  const episodeData = data.episodes[0][season][episode - 1];
+  if (episodeData) {
+    res.set(responseHeaders);
+    res.send(episodeData);
+  } else {
+    res.status(404).send({ error: "Episode not found" });
   }
 });
 // POST Routes

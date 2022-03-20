@@ -84,6 +84,17 @@ app.get("/episodes", (req, res) => {
   res.set(responseHeaders);
   res.send(data.episodes);
 });
+// Get an episode by id
+app.get("/episodes/:id", (req, res) => {
+  const id = req.url.split("/")[2];
+  const episode = data.episodes[0].all[id - 1];
+  if (episode) {
+    res.set(responseHeaders);
+    res.send(episode);
+  } else {
+    res.status(404).send({ error: "Episode not found" });
+  }
+});
 // Get episodes by number of episode in the season
 app.get("/episodes/:no_season/:no_in_season", (req, res) => {
   const season = "season_" + req.url.split("/")[2];
@@ -98,6 +109,7 @@ app.get("/episodes/:no_season/:no_in_season", (req, res) => {
 });
 // POST Routes
 
+// Create a new character
 app.post("/characters/new", (req, res) => {
   const newCharacter = req.body;
   res.set(responseHeaders);

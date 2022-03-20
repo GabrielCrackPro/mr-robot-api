@@ -63,6 +63,11 @@ app.get("/characters/:id", (req, res) => {
     res.status(404).send({ error: "Character not found" });
   }
 });
+// Get all seasons
+app.get("/seasons", (req, res) => {
+  res.set(responseHeaders);
+  res.send(data.episodes[0].overview);
+});
 // Get all episodes
 app.get("/episodes", (req, res) => {
   res.set(responseHeaders);

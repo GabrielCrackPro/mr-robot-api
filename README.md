@@ -7,7 +7,7 @@ An API with data from Mr Robot TV series.
 ## TODO
 
 - [x] Define the API
-- [ ] Define the API endpoints
+- [x] Define the API endpoints
   - [x] Details
   - [x] Characters
     - [x] Get all characters
@@ -16,7 +16,7 @@ An API with data from Mr Robot TV series.
     - [x] Get all episodes
     - [x] Get an episode by number in season
     - [x] Get an episode by ID
-  - [ ] Seasons
+  - [x] Seasons
     - [x] Get all seasons
     - [x] Get a season by ID
 - [ ] Add pagination

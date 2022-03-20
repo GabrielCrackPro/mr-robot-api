@@ -2,6 +2,7 @@
   {
     "main": [
       {
+        "id": 1,
         "name": "Rami Malek",
         "role": "Eliot Alderson",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rami_Malek_in_2015_%282%29_%28cropped%29.jpg",
@@ -13,6 +14,7 @@
         }
       },
       {
+        "id": 2,
         "name": "Carly Chaikin",
         "role": "Darlene Alderson",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Carly_Chaikin_2012.jpg_%28cropped%2Benhanced%29.jpg",
@@ -23,6 +25,7 @@
         }
       },
       {
+        "id": 3,
         "name": "Portia Doubleday",
         "role": "Angela Moss",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/PortiaDoubledayTIFFSept09.jpg_%28cropped%29.jpg",
@@ -33,6 +36,7 @@
         }
       },
       {
+        "id": 4,
         "name": "Martin Wallström",
         "role": "Tyrell Wellick",
         "image": "http://br.web.img3.acsta.net/pictures/19/06/28/02/22/4893418.jpg",
@@ -43,6 +47,7 @@
         }
       },
       {
+        "id": 5,
         "name": "Christian Slater",
         "role": "Mr Robot",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/SXSW_2016_-_Christian_Slater_%2825138462254%29_%28cropped%29.jpg",
@@ -53,6 +58,7 @@
         }
       },
       {
+        "id": 6,
         "name": "Michael Cristofer",
         "role": "Phillip Price",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Michael_Cristofer_cropped.jpg",
@@ -63,6 +69,7 @@
         }
       },
       {
+        "id": 7,
         "name": "Stephanie Corneliussen",
         "role": "Joana Wellick",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Stephanie_Corneliussen_by_Gage_Skidmore.jpg/1280px-Stephanie_Corneliussen_by_Gage_Skidmore.jpg",
@@ -73,6 +80,7 @@
         }
       },
       {
+        "id": 8,
         "name": "Grace Gummer",
         "role": "Dominique DiPierro",
         "image": "https://celebmafia.com/wp-content/uploads/2020/02/grace-gummer-vanity-fair-oscar-party-2020-0.jpg",
@@ -83,6 +91,7 @@
         }
       },
       {
+        "id": 9,
         "name": "BD Wong",
         "role": "White Rose",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/BDWongNYCJune08.jpg",
@@ -93,6 +102,7 @@
         }
       },
       {
+        "id": 10,
         "name": "Ashlie Atkinson",
         "role": "Janice",
         "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Jm3UCFfqFW7PJl54kBajnAHaJ4%26pid%3DApi&f=1",
@@ -103,6 +113,7 @@
         }
       },
       {
+        "id": 11,
         "name": "Elliot Villar",
         "role": "Fernando Vera",
         "image": "https://www.notrecinema.com/images/usercontent/star/elliot-villar-photo_133738_46820.jpg",
@@ -115,6 +126,7 @@
     ],
     "recurring": [
       {
+        "id": 12,
         "name": "Gloria Reuben",
         "role": "Krista Gordon",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Actress_gloria_reuben_photo_by_christopher_peterson_cropped_retouched.jpg",
@@ -125,6 +137,7 @@
         }
       },
       {
+        "id": 13,
         "name": "Michel Gill",
         "role": "Gideon Goddard",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Michael_Gill_2014_%28cropped%29.jpg",
@@ -135,6 +148,7 @@
         }
       },
       {
+        "id": 14,
         "name": "Ben Rappaport",
         "role": "Ollie Parker",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Ben_Rappaport_2.jpg",
@@ -145,6 +159,7 @@
         }
       },
       {
+        "id": 15,
         "name": "Frankie Shaw",
         "role": "Shayla Nico",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/2015_11_25_Frankie43422_copy.jpg",
@@ -155,6 +170,7 @@
         }
       },
       {
+        "id": 16,
         "name": "Ron Cephas Jones",
         "role": "Leslie Romero",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ron_Cephas_Jones_3.jpg",
@@ -165,6 +181,7 @@
         }
       },
       {
+        "id": 17,
         "name": "Sunita Mani",
         "role": "Shama 'Trenton' Biswas",
         "image": "https://celebmafia.com/wp-content/uploads/2018/01/sunita-mani-2018-sag-awards-in-la-0.jpg",
@@ -175,6 +192,7 @@
         }
       },
       {
+        "id": 18,
         "name": "Azhar Khan",
         "role": "Sunil 'Mobley' Markesh",
         "image": "https://nettv4u.com/serialimages/12-07-2020/azhar-khan.jpg",

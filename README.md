@@ -15,7 +15,10 @@ An API with data from Mr Robot TV series.
   - [x] Episodes
     - [x] Get all episodes
     - [x] Get an episode by number in season
+    - [x] Get an episode by ID
   - [ ] Seasons
+    - [x] Get all seasons
+    - [x] Get a season by ID
 - [ ] Add pagination
 - [ ] Add documentation
 - [ ] Create frontend for documentation

@@ -1,5 +1,6 @@
 # Mr Robot API
-[![GitHub license](https://img.shields.io/github/license/%7BGabrielCrackPro%7D/%7Bmr-robot-api%7D.svg)](https://github.com/GabrielCrackPro/mr-robot-api/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/GabrielCrackPro/mr-robot-api/master/LICENSE)
+![Heroku](https://pyheroku-badge.herokuapp.com/?app=mr-robot-express-api)
 
 An API with data from Mr Robot TV series.
 

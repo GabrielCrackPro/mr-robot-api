@@ -3,21 +3,25 @@
     "overview": {
       "total": 45,
       "season_1": {
+        "season_id": 1,
         "episodes": 10,
         "first_aired": "2015-06-24",
         "last_aired": "2015-09-02"
       },
       "season_2": {
+        "season_id": 2,
         "episodes": 12,
         "first_aired": "2016-07-13",
         "last_aired": "2016-09-21"
       },
       "season_3": {
+        "season_id": 3,
         "episodes": 10,
         "first_aired": "2017-10-11",
         "last_aired": "2017-12-13"
       },
       "season_4": {
+        "season_id": 4,
         "episodes": 13,
         "first_aired": "2019-10-06",
         "last_aired": "2019-12-22"

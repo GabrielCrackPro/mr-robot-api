@@ -1,5 +1,5 @@
 # Mr Robot API
-[![GitHub license](https://img.shields.io/github/license/%7Busername%7D/%7Brepo-name%7D.svg)](https://github.com/GabrielCrackPro/mr-robot-api/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/%7BGabrielCrackPro%7D/%7Bmr-robot-api%7D.svg)](https://github.com/GabrielCrackPro/mr-robot-api/master/LICENSE)
 
 An API with data from Mr Robot TV series.
 

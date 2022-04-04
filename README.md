@@ -218,4 +218,4 @@ https://mr-robot-express-api.herokuapp.com/characters/1
     - [x] Get a season by ID
 - [x] Add documentation
 - [x] Deploy to Heroku
-- [ ] Create testing UI
+- [x] Create <a href="https://mr-robot-frontend.surge.sh" target="_blank">testing UI</a>
